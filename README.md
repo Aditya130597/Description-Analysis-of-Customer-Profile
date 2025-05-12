@@ -20,7 +20,7 @@ The dataset includes the following key features:
 ● Outlier treatment
 ● Exploratory data analysis of numerical and categorical features
 
-#Dependencies
+# Dependencies
 ● Python 3.x
 ● Libraries: pandas, numpy, matplotlib, seaborn
 
